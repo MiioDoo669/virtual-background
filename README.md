@@ -1,6 +1,6 @@
 1. Clone the repository
 ## Bash
-# git clone 
+# git clone https://github.com/MiioDoo669/virtual-background.git
 # cd virtual-background-studio
 ## 2. Create and Activate Virtual Environment
 ## PowerShell
